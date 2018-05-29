@@ -1,0 +1,21 @@
+{
+  "name": "recents-miniapp",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "moment": "2.22.1",
+    "react": "16.3.1",
+    "react-native": "0.55.3"
+  },
+  "ern": {
+    "moduleName": "RecentsMiniApp",
+    "moduleType": "ern-miniapp",
+    "version": "0.18.2"
+  },
+  "keywords": [
+    "ern-miniapp"
+  ]
+}
